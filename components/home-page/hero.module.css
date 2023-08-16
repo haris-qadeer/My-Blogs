@@ -5,6 +5,12 @@
     var(--color-grey-900),
     var(--color-grey-800)
   );
+  /* background: linear-gradient(
+    88.7deg,
+    rgb(207, 150, 207) -2.4%,
+    rgb(107, 116, 179) 102%
+  ); */
+
   padding: var(--size-8) 0;
 }
 
